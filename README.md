@@ -1,5 +1,5 @@
 # OpenTelemetry with NestJS
-> This is a learning repository, none of the code found here should be directly adopted for production, without passing by a code-review process.
+> This is a learning repository, none of the code found here should be directly adopted for production, without passing through a code-review process.
 
 This repository stores all the learning artifacts developed during the exploration of OpenTelemetry JavaScript's SDK. The main purpose here is to display a few ways of integration with those functionalities and how they could be used in a NestJS project.
 
